@@ -1,0 +1,2 @@
+# Intoduction_-_la_programmation_orient-e_objet_-Python-
+Projet académique en Python : développement d'un chatbot interactif capable d'apprendre de nouvelles réponses en temps réel. Intègre la gestion de fichiers, l'historique des conversations et une logique d'apprentissage autonome. Réalisé avec Oussama Mannai dans le cadre du cours "Introduction à la POO". #Python #Chatbot #DéveloppementLogiciel
